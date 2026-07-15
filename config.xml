@@ -2959,8 +2959,8 @@ AAAECmVcZHqT+vqmjM99QImaRFnc+7XA0Xzzj2XilOfCAOUXfU8Wfc5MnCBBUb4LPbDmUM&#13;
   </widgets>
   <revision>
     <username>root@188.212.113.112</username>
-    <description>/api/firewall/filter/add_rule/ made changes</description>
-    <time>1784124877.04</time>
+    <description>/api/firewall/filter/set_rule/226f509c-3aa7-4122-b435-f94bfef654f4 made changes</description>
+    <time>1784124953.39</time>
   </revision>
   <ca uuid="8b359d70-f7a8-444b-a91f-e4834f94339c">
     <refid>62b55e336d051</refid>
@@ -4135,7 +4135,7 @@ __opt6_network</content>
           </template>
         </templates>
       </Lvtemplate>
-      <Filter version="1.0.5" persisted_at="1784124877.04" description="Firewall rules (new)">
+      <Filter version="1.0.5" persisted_at="1784124953.39" description="Firewall rules (new)">
         <general/>
         <rules>
           <rule uuid="226f509c-3aa7-4122-b435-f94bfef654f4">
@@ -4148,16 +4148,16 @@ __opt6_network</content>
             <interfacenot>0</interfacenot>
             <interface>opt1,opt2,opt3,lan,opt5,opt7,opt6</interface>
             <direction>in</direction>
-            <ipprotocol>inet</ipprotocol>
-            <protocol>any</protocol>
+            <ipprotocol>inet6</ipprotocol>
+            <protocol>UDP</protocol>
             <icmptype/>
             <icmp6type/>
             <source_net>any</source_net>
             <source_not>0</source_not>
             <source_port/>
-            <destination_net>any</destination_net>
+            <destination_net>intern_dns</destination_net>
             <destination_not>0</destination_not>
-            <destination_port/>
+            <destination_port>domain</destination_port>
             <divert-to/>
             <gateway/>
             <replyto/>
