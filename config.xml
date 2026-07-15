@@ -415,10 +415,11 @@
     <aliasesresolveinterval/>
     <maximumtableentries/>
     <backup>
-      <git version="1.0.0">
+      <git version="1.0.0" persisted_at="1784097882.94" description="Git Backup Settings">
         <enabled>1</enabled>
         <url>ssh://github.com/BuddahsFever/OPNsenseHQ.git</url>
         <branch>main</branch>
+        <force_push>0</force_push>
         <privkey>-----BEGIN OPENSSH PRIVATE KEY-----&#13;
 b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW&#13;
 QyNTUxOQAAACBrn+jLNxzLFQfOMmcsNGJfj+t2PaT9qA5OFvNkmDZP1gAAAJixJyEMsSch&#13;
@@ -2956,8 +2957,8 @@ AAAEDaVDQEOCy+EpwU32XNNnaq0SPliNAIXXQC0ollGx2cNWuf6Ms3HMsVB84yZyw0Yl+P&#13;
   </widgets>
   <revision>
     <username>root@188.212.113.112</username>
-    <description>/api/netbird/authentication/set made changes</description>
-    <time>1784095051.13</time>
+    <description>/diag_backup.php made changes</description>
+    <time>1784097882.94</time>
   </revision>
   <ca uuid="8b359d70-f7a8-444b-a91f-e4834f94339c">
     <refid>62b55e336d051</refid>
