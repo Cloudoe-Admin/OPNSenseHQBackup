@@ -2959,8 +2959,8 @@ AAAECmVcZHqT+vqmjM99QImaRFnc+7XA0Xzzj2XilOfCAOUXfU8Wfc5MnCBBUb4LPbDmUM&#13;
   </widgets>
   <revision>
     <username>root@188.212.113.112</username>
-    <description>/services_dhcp.php made changes</description>
-    <time>1784124690.73</time>
+    <description>/api/firewall/alias/add_item/ made changes</description>
+    <time>1784124840.31</time>
   </revision>
   <ca uuid="8b359d70-f7a8-444b-a91f-e4834f94339c">
     <refid>62b55e336d051</refid>
@@ -3785,7 +3785,7 @@ AAAECmVcZHqT+vqmjM99QImaRFnc+7XA0Xzzj2XilOfCAOUXfU8Wfc5MnCBBUb4LPbDmUM&#13;
       </general>
     </IDS>
     <Firewall>
-      <Alias version="1.0.1">
+      <Alias version="1.0.1" persisted_at="1784124840.31" description="Firewall aliases">
         <geoip>
           <url>https://download.maxmind.com/app/geoip_download?edition_id=GeoLite2-Country-CSV&amp;license_key=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&amp;suffix=zip</url>
         </geoip>
@@ -3998,6 +3998,7 @@ WS</content>
             <password/>
             <username/>
             <authtype/>
+            <expire/>
             <categories/>
             <description>Untrusted Countries</description>
           </alias>
@@ -4014,6 +4015,7 @@ WS</content>
             <password/>
             <username/>
             <authtype/>
+            <expire/>
             <categories/>
             <description>Spamhaus DROP</description>
           </alias>
@@ -4030,6 +4032,7 @@ WS</content>
             <password/>
             <username/>
             <authtype/>
+            <expire/>
             <categories/>
             <description>Spamhaus EDROP</description>
           </alias>
@@ -4052,6 +4055,7 @@ __opt6_network</content>
             <password/>
             <username/>
             <authtype/>
+            <expire/>
             <categories/>
             <description/>
           </alias>
@@ -4069,7 +4073,26 @@ __opt6_network</content>
             <password/>
             <username/>
             <authtype/>
+            <expire/>
             <categories>f2b3894d-2101-4c54-8187-9f4ef9cbed34</categories>
+            <description/>
+          </alias>
+          <alias uuid="1ac774ee-afae-426d-b9ff-d22aa055a68a">
+            <enabled>1</enabled>
+            <name>intern_dns</name>
+            <type>host</type>
+            <path_expression/>
+            <proto/>
+            <interface/>
+            <counters>0</counters>
+            <updatefreq/>
+            <content>10.140.8.3
+10.140.8.4</content>
+            <password/>
+            <username/>
+            <authtype/>
+            <expire/>
+            <categories/>
             <description/>
           </alias>
         </aliases>
