@@ -649,7 +649,8 @@ AAAECmVcZHqT+vqmjM99QImaRFnc+7XA0Xzzj2XilOfCAOUXfU8Wfc5MnCBBUb4LPbDmUM&#13;
         <to>10.140.89.29</to>
       </range>
       <winsserver/>
-      <dnsserver>10.140.8.1</dnsserver>
+      <dnsserver>10.140.8.3</dnsserver>
+      <dnsserver>10.140.8.4</dnsserver>
       <ntpserver/>
     </opt7>
   </dhcpd>
@@ -2959,7 +2960,7 @@ AAAECmVcZHqT+vqmjM99QImaRFnc+7XA0Xzzj2XilOfCAOUXfU8Wfc5MnCBBUb4LPbDmUM&#13;
   <revision>
     <username>root@188.212.113.112</username>
     <description>/services_dhcp.php made changes</description>
-    <time>1784124647.61</time>
+    <time>1784124660.58</time>
   </revision>
   <ca uuid="8b359d70-f7a8-444b-a91f-e4834f94339c">
     <refid>62b55e336d051</refid>
