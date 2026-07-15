@@ -415,11 +415,11 @@
     <aliasesresolveinterval/>
     <maximumtableentries/>
     <backup>
-      <git version="1.0.0" persisted_at="1784098433.09" description="Git Backup Settings">
+      <git version="1.0.0" persisted_at="1784098441.11" description="Git Backup Settings">
         <enabled>1</enabled>
         <url>ssh://github.com/BuddahsFever/OPNsenseHQ.git</url>
         <branch>main</branch>
-        <force_push>1</force_push>
+        <force_push>0</force_push>
         <privkey>-----BEGIN OPENSSH PRIVATE KEY-----&#13;
 b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW&#13;
 QyNTUxOQAAACB31PFn3OTJwgQVG+Cz2w5lDNFcGJFdxU5UJnDD4t1cUQAAAJjOYysxzmMr&#13;
@@ -2958,7 +2958,7 @@ AAAECmVcZHqT+vqmjM99QImaRFnc+7XA0Xzzj2XilOfCAOUXfU8Wfc5MnCBBUb4LPbDmUM&#13;
   <revision>
     <username>root@188.212.113.112</username>
     <description>/diag_backup.php made changes</description>
-    <time>1784098433.09</time>
+    <time>1784098441.11</time>
   </revision>
   <ca uuid="8b359d70-f7a8-444b-a91f-e4834f94339c">
     <refid>62b55e336d051</refid>
