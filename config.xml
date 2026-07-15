@@ -557,8 +557,8 @@ AAAECmVcZHqT+vqmjM99QImaRFnc+7XA0Xzzj2XilOfCAOUXfU8Wfc5MnCBBUb4LPbDmUM&#13;
         <to>10.140.8.220</to>
       </range>
       <winsserver/>
-      <dnsserver>1.1.1.1</dnsserver>
-      <dnsserver>1.0.0.1</dnsserver>
+      <dnsserver>10.140.8.3</dnsserver>
+      <dnsserver>10.140.8.4</dnsserver>
       <ntpserver/>
     </lan>
     <opt2>
@@ -2957,8 +2957,8 @@ AAAECmVcZHqT+vqmjM99QImaRFnc+7XA0Xzzj2XilOfCAOUXfU8Wfc5MnCBBUb4LPbDmUM&#13;
   </widgets>
   <revision>
     <username>root@188.212.113.112</username>
-    <description>/diag_backup.php made changes</description>
-    <time>1784098441.11</time>
+    <description>/services_dhcp.php made changes</description>
+    <time>1784121593.02</time>
   </revision>
   <ca uuid="8b359d70-f7a8-444b-a91f-e4834f94339c">
     <refid>62b55e336d051</refid>
