@@ -2959,8 +2959,8 @@ AAAECmVcZHqT+vqmjM99QImaRFnc+7XA0Xzzj2XilOfCAOUXfU8Wfc5MnCBBUb4LPbDmUM&#13;
   </widgets>
   <revision>
     <username>root@188.212.113.112</username>
-    <description>/api/firewall/alias/add_item/ made changes</description>
-    <time>1784124840.31</time>
+    <description>/api/firewall/alias/set made changes</description>
+    <time>1784124843.38</time>
   </revision>
   <ca uuid="8b359d70-f7a8-444b-a91f-e4834f94339c">
     <refid>62b55e336d051</refid>
@@ -3785,7 +3785,7 @@ AAAECmVcZHqT+vqmjM99QImaRFnc+7XA0Xzzj2XilOfCAOUXfU8Wfc5MnCBBUb4LPbDmUM&#13;
       </general>
     </IDS>
     <Firewall>
-      <Alias version="1.0.1" persisted_at="1784124840.31" description="Firewall aliases">
+      <Alias version="1.0.1" persisted_at="1784124843.38" description="Firewall aliases">
         <geoip>
           <url>https://download.maxmind.com/app/geoip_download?edition_id=GeoLite2-Country-CSV&amp;license_key=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&amp;suffix=zip</url>
         </geoip>
