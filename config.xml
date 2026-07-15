@@ -2956,8 +2956,8 @@ AAAEDaVDQEOCy+EpwU32XNNnaq0SPliNAIXXQC0ollGx2cNWuf6Ms3HMsVB84yZyw0Yl+P&#13;
   </widgets>
   <revision>
     <username>root@188.212.113.112</username>
-    <description>/api/netbird/settings/set made changes</description>
-    <time>1784095045.22</time>
+    <description>/api/netbird/authentication/set made changes</description>
+    <time>1784095051.13</time>
   </revision>
   <ca uuid="8b359d70-f7a8-444b-a91f-e4834f94339c">
     <refid>62b55e336d051</refid>
@@ -5595,9 +5595,9 @@ a27cfcc667057dc2801974f582916aff
           <logLevel>info</logLevel>
         </syslog>
       </settings>
-      <authentication version="1.0.0" persisted_at="1784054129.60" description="NetBird authentication">
+      <authentication version="1.0.0" persisted_at="1784095051.13" description="NetBird authentication">
         <managementUrl>https://birdie.cloudoe.nl</managementUrl>
-        <setupKey>9538231C-1474-4970-8520-243435658B91</setupKey>
+        <setupKey>688D98F7-9624-4571-94E8-8A77D836A05E</setupKey>
       </authentication>
     </netbird>
     <Hostwatch version="1.0.0" persisted_at="1781119588.58" description="Host discovery">
