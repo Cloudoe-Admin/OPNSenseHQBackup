@@ -2957,7 +2957,7 @@ AAAEDaVDQEOCy+EpwU32XNNnaq0SPliNAIXXQC0ollGx2cNWuf6Ms3HMsVB84yZyw0Yl+P&#13;
   <revision>
     <username>root@188.212.113.112</username>
     <description>/api/netbird/settings/set made changes</description>
-    <time>1784094751.21</time>
+    <time>1784095045.22</time>
   </revision>
   <ca uuid="8b359d70-f7a8-444b-a91f-e4834f94339c">
     <refid>62b55e336d051</refid>
@@ -5561,9 +5561,9 @@ a27cfcc667057dc2801974f582916aff
       </general>
     </trust>
     <netbird>
-      <settings version="1.2.0" persisted_at="1784094751.21" description="NetBird settings">
+      <settings version="1.2.0" persisted_at="1784095045.22" description="NetBird settings">
         <general>
-          <enable>0</enable>
+          <enable>1</enable>
           <wireguardPort>51820</wireguardPort>
           <ipmapping/>
         </general>
