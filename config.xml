@@ -2992,8 +2992,8 @@ AAAECmVcZHqT+vqmjM99QImaRFnc+7XA0Xzzj2XilOfCAOUXfU8Wfc5MnCBBUb4LPbDmUM&#13;
   </widgets>
   <revision>
     <username>root@188.212.113.112</username>
-    <description>/api/firewall/alias/set made changes</description>
-    <time>1784185404.12</time>
+    <description>/api/radvd/settings/set_entry/8bcf4d32-076d-4e14-b5a6-e303457cf3ae made changes</description>
+    <time>1784185424.88</time>
   </revision>
   <ca uuid="8b359d70-f7a8-444b-a91f-e4834f94339c">
     <refid>62b55e336d051</refid>
@@ -5727,7 +5727,7 @@ a27cfcc667057dc2801974f582916aff
         <interface/>
       </general>
     </Hostwatch>
-    <radvd version="1.0.1" persisted_at="1781120331.31" description="Radvd configuration">
+    <radvd version="1.0.1" persisted_at="1784185424.88" description="Radvd configuration">
       <entries uuid="8bcf4d32-076d-4e14-b5a6-e303457cf3ae">
         <enabled>1</enabled>
         <interface>opt6</interface>
@@ -5737,7 +5737,7 @@ a27cfcc667057dc2801974f582916aff
         <RemoveAdvOnExit/>
         <RemoveRoute/>
         <routes/>
-        <RDNSS/>
+        <RDNSS>2a02:22a0:eee8:3e01::3,2a02:22a0:eee8:3e01::4</RDNSS>
         <DNSSL/>
         <dns>1</dns>
         <MinRtrAdvInterval>200</MinRtrAdvInterval>
