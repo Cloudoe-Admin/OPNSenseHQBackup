@@ -491,6 +491,8 @@ AAAECmVcZHqT+vqmjM99QImaRFnc+7XA0Xzzj2XilOfCAOUXfU8Wfc5MnCBBUb4LPbDmUM&#13;
       <spoofmac/>
       <ipaddr>10.140.87.1</ipaddr>
       <subnet>24</subnet>
+      <ipaddrv6>2a02:22a0:eee8:3e30::1</ipaddrv6>
+      <subnetv6>64</subnetv6>
     </opt3>
     <opt6>
       <if>vlan04</if>
@@ -2992,7 +2994,7 @@ AAAECmVcZHqT+vqmjM99QImaRFnc+7XA0Xzzj2XilOfCAOUXfU8Wfc5MnCBBUb4LPbDmUM&#13;
   <revision>
     <username>root@188.212.113.112</username>
     <description>/interfaces.php made changes</description>
-    <time>1784184177.57</time>
+    <time>1784184218.41</time>
   </revision>
   <ca uuid="8b359d70-f7a8-444b-a91f-e4834f94339c">
     <refid>62b55e336d051</refid>
