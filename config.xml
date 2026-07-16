@@ -448,6 +448,9 @@ AAAECmVcZHqT+vqmjM99QImaRFnc+7XA0Xzzj2XilOfCAOUXfU8Wfc5MnCBBUb4LPbDmUM&#13;
       <spoofmac/>
       <ipaddr>10.140.8.1</ipaddr>
       <subnet>24</subnet>
+      <ipaddrv6>idassoc6</ipaddrv6>
+      <track6-interface>opt9</track6-interface>
+      <track6-prefix-id>1</track6-prefix-id>
     </lan>
     <lo0>
       <internal_dynamic>1</internal_dynamic>
@@ -2987,7 +2990,7 @@ AAAECmVcZHqT+vqmjM99QImaRFnc+7XA0Xzzj2XilOfCAOUXfU8Wfc5MnCBBUb4LPbDmUM&#13;
   <revision>
     <username>root@188.212.113.112</username>
     <description>/interfaces.php made changes</description>
-    <time>1784182579.89</time>
+    <time>1784182888.21</time>
   </revision>
   <ca uuid="8b359d70-f7a8-444b-a91f-e4834f94339c">
     <refid>62b55e336d051</refid>
