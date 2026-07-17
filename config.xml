@@ -2990,8 +2990,8 @@ AAAECmVcZHqT+vqmjM99QImaRFnc+7XA0Xzzj2XilOfCAOUXfU8Wfc5MnCBBUb4LPbDmUM&#13;
   </widgets>
   <revision>
     <username>root@188.212.113.112</username>
-    <description>/interfaces.php made changes</description>
-    <time>1784282010.77</time>
+    <description>/api/unbound/settings/setDnsbl/5fb5c700-d292-41c0-b759-26e847355254 made changes</description>
+    <time>1784282097.52</time>
   </revision>
   <ca uuid="8b359d70-f7a8-444b-a91f-e4834f94339c">
     <refid>62b55e336d051</refid>
@@ -3062,7 +3062,7 @@ AAAECmVcZHqT+vqmjM99QImaRFnc+7XA0Xzzj2XilOfCAOUXfU8Wfc5MnCBBUb4LPbDmUM&#13;
   </gateways>
   <staticroutes version="1.0.1" persisted_at="1784029881.36" description="Static routes"/>
   <OPNsense>
-    <unboundplus version="1.0.15" persisted_at="1781120331.57" description="Unbound configuration">
+    <unboundplus version="1.0.15" persisted_at="1784282097.51" description="Unbound configuration">
       <general>
         <enabled>1</enabled>
         <port>53</port>
@@ -3133,7 +3133,7 @@ AAAECmVcZHqT+vqmjM99QImaRFnc+7XA0Xzzj2XilOfCAOUXfU8Wfc5MnCBBUb4LPbDmUM&#13;
           <enabled>0</enabled>
           <type/>
           <lists/>
-          <allowlists>dit.whatsapp.net,settings-win.data.microsoft.com</allowlists>
+          <allowlists/>
           <blocklists/>
           <wildcards/>
           <source_nets/>
