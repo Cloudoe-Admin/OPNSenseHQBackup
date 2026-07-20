@@ -258,6 +258,7 @@
       <description>System Administrators</description>
       <priv>page-all</priv>
       <member>0,2001,2002</member>
+      <source_networks/>
     </group>
     <user uuid="53353f5e-2b21-4f3a-bd31-0ccb7cb03d76">
       <uid>0</uid>
@@ -268,8 +269,8 @@
       <authorizedkeys/>
       <otp_seed/>
       <shell/>
-      <password>$2y$11$6sf0NpAouUSAiomnfsXUR.P6O01.H36ujCKqN9ZXkmSWeidEWCt5K</password>
-      <pwd_changed_at/>
+      <password>$2y$11$c94QoTWuBUb/DpIcKcjNcOrzLALAM7L5EVwhDI3qHa5MqQicnc6b.</password>
+      <pwd_changed_at>1784526845.5141</pwd_changed_at>
       <landing_page/>
       <comment/>
       <email/>
@@ -2990,8 +2991,8 @@ AAAECmVcZHqT+vqmjM99QImaRFnc+7XA0Xzzj2XilOfCAOUXfU8Wfc5MnCBBUb4LPbDmUM&#13;
   </widgets>
   <revision>
     <username>root@188.212.113.112</username>
-    <description>/diag_backup.php made changes</description>
-    <time>1784526742.11</time>
+    <description>user "root" changed</description>
+    <time>1784526845.51</time>
   </revision>
   <ca uuid="8b359d70-f7a8-444b-a91f-e4834f94339c">
     <refid>62b55e336d051</refid>
