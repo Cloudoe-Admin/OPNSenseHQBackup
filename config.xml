@@ -415,7 +415,7 @@
     <aliasesresolveinterval/>
     <maximumtableentries/>
     <backup>
-      <git version="1.0.0" persisted_at="1784098441.11" description="Git Backup Settings">
+      <git version="1.0.0" persisted_at="1784526742.11" description="Git Backup Settings">
         <enabled>1</enabled>
         <url>ssh://github.com/BuddahsFever/OPNsenseHQ.git</url>
         <branch>main</branch>
@@ -2990,8 +2990,8 @@ AAAECmVcZHqT+vqmjM99QImaRFnc+7XA0Xzzj2XilOfCAOUXfU8Wfc5MnCBBUb4LPbDmUM&#13;
   </widgets>
   <revision>
     <username>root@188.212.113.112</username>
-    <description>Changed backup revision count</description>
-    <time>1784526737.63</time>
+    <description>/diag_backup.php made changes</description>
+    <time>1784526742.11</time>
   </revision>
   <ca uuid="8b359d70-f7a8-444b-a91f-e4834f94339c">
     <refid>62b55e336d051</refid>
