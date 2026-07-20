@@ -2991,8 +2991,8 @@ UFNVy85VYsgp1ovD9FLmAAAAEG1pc2phQGNsb3Vkb2UubmwBAgMEBQ==&#13;
   </widgets>
   <revision>
     <username>root@188.212.113.112</username>
-    <description>/diag_backup.php made changes</description>
-    <time>1784529159.89</time>
+    <description>/api/firewall/alias/set made changes</description>
+    <time>1784529553.57</time>
   </revision>
   <ca uuid="8b359d70-f7a8-444b-a91f-e4834f94339c">
     <refid>62b55e336d051</refid>
@@ -3817,9 +3817,9 @@ UFNVy85VYsgp1ovD9FLmAAAAEG1pc2phQGNsb3Vkb2UubmwBAgMEBQ==&#13;
       </general>
     </IDS>
     <Firewall>
-      <Alias version="1.0.1" persisted_at="1784529040.08" description="Firewall aliases">
+      <Alias version="1.0.1" persisted_at="1784529553.57" description="Firewall aliases">
         <geoip>
-          <url>https://download.maxmind.com/app/geoip_download?edition_id=GeoLite2-Country-CSV&amp;license_key=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&amp;suffix=zip</url>
+          <url/>
         </geoip>
         <aliases>
           <alias uuid="62b66c2d-1293-45ec-888d-ad5e95e06824">
