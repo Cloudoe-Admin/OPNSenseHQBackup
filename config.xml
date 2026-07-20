@@ -289,13 +289,13 @@
       <authorizedkeys/>
       <otp_seed>DJ6Q7IVU6O56DQIQTDIQJAZY3423EA35</otp_seed>
       <shell/>
-      <password>$2y$10$w32du8G/HId4IEUEU3U.lubUO2CV7ds7f.nkybuKelo7SX8VuaH4y</password>
-      <pwd_changed_at/>
+      <password>$2y$11$4Vdk1kuDUGj/yRMr9qu79eC5TCUqiGiaTX8Oco/4eaBlF54gbyBbC</password>
+      <pwd_changed_at>1784526890.8108</pwd_changed_at>
       <landing_page/>
       <comment/>
       <email>misja@cloudoe.nl</email>
       <apikeys/>
-      <priv/>
+      <priv>page-all</priv>
       <language/>
       <descr>Misja Hoen</descr>
       <dashboard>eyJvcHRpb25zIjpbXSwid2lkZ2V0cyI6W3siaWQiOiJkbWlkZWNvZGUiLCJtaW5XIjoyLCJ4IjowLCJ5IjowLCJoIjo5MDgsIndpZGdldCI6W10sInciOjJ9LHsiaWQiOiJtZW1vcnkiLCJtaW5XIjoxLCJ4IjoyLCJ5IjowLCJoIjoxMTYsIndpZGdldCI6W10sInciOm51bGx9LHsiaWQiOiJkaXNrIiwibWluVyI6MSwieCI6MywieSI6MCwiaCI6MTE2LCJ3aWRnZXQiOltdLCJ3IjpudWxsfSx7ImlkIjoiaW50ZXJmYWNlc3RhdGlzdGljcyIsIm1pblciOjIsIngiOjQsInkiOjAsInciOjQsImgiOjI5Nywid2lkZ2V0IjpbXX0seyJpZCI6ImZpcmV3YWxsIiwibWluVyI6MiwieCI6OCwieSI6MCwidyI6NCwiaCI6Mjk3LCJ3aWRnZXQiOltdfSx7ImlkIjoiY3B1IiwibWluVyI6MiwieCI6MiwieSI6MTE2LCJoIjoxNzgsIndpZGdldCI6eyJncmFwaHMiOlsidG90YWwiXX0sInciOjJ9LHsiaWQiOiJhbm5vdW5jZW1lbnRzIiwibWluVyI6MiwieCI6MiwieSI6Mjk0LCJzaXplVG9Db250ZW50IjozNTAsImgiOjM1MCwid2lkZ2V0IjpbXSwidyI6Mn0seyJpZCI6InNlcnZpY2VzIiwibWluVyI6MiwieCI6NCwieSI6Mjk3LCJ3Ijo0LCJzaXplVG9Db250ZW50Ijo2NTAsImgiOjY1MCwid2lkZ2V0IjpbXX0seyJpZCI6InRyYWZmaWMiLCJtaW5XIjoyLCJ4Ijo4LCJ5IjoyOTcsInciOjQsImgiOjQ0Niwid2lkZ2V0Ijp7ImludGVyZmFjZXMiOlsibGFuIl19fSx7ImlkIjoiYXBjdXBzZCIsIm1pblciOjIsIngiOjIsInkiOjY0NCwiaCI6NDIyLCJ3aWRnZXQiOltdLCJ3IjoyfSx7ImlkIjoiaW50ZXJmYWNlcyIsIm1pblciOjIsInNpemVUb0NvbnRlbnQiOjYzNCwieCI6OCwieSI6NzQzLCJoIjo2MzQsIndpZGdldCI6W10sInciOjJ9LHsiaWQiOiJzeXN0ZW1pbmZvcm1hdGlvbiIsIm1pblciOjIsIngiOjEwLCJ5Ijo3NDMsImgiOjUzMSwid2lkZ2V0IjpbXSwidyI6Mn0seyJpZCI6InRoZXJtYWxzZW5zb3JzIiwibWluVyI6MiwieCI6MCwieSI6OTA4LCJoIjozNjAsIndpZGdldCI6eyJzZW5zb3JzIjpbImRldi5hbWR0ZW1wLjAuY29yZTAuc2Vuc29yMCIsImRldi5jcHUuMC50ZW1wZXJhdHVyZSIsImRldi5jcHUuMS50ZW1wZXJhdHVyZSIsImRldi5jcHUuMi50ZW1wZXJhdHVyZSIsImRldi5jcHUuMy50ZW1wZXJhdHVyZSIsImRldi5jcHUuNC50ZW1wZXJhdHVyZSIsImRldi5jcHUuNS50ZW1wZXJhdHVyZSIsImRldi5jcHUuNi50ZW1wZXJhdHVyZSIsImRldi5jcHUuNy50ZW1wZXJhdHVyZSJdfSwidyI6Mn0seyJpZCI6ImRlY2h3IiwibWluVyI6MiwieCI6NCwieSI6OTQ3LCJoIjoxNjIsIndpZGdldCI6W10sInciOjJ9LHsiaWQiOiJzbWFydCIsIm1pblciOjIsIngiOjYsInkiOjk0NywiaCI6MTcxLCJ3aWRnZXQiOltdLCJ3IjoyfSx7ImlkIjoiZ2F0ZXdheXMiLCJtaW5XIjoyLCJ4IjoyLCJ5IjoxMDY2LCJzaXplVG9Db250ZW50IjoyMzIsImgiOjIzMiwid2lkZ2V0Ijp7ImdhdGV3YXlzIjpbIjkwZWExMzM0LTAxNzktNDNlZi04MTFlLTY2MGEwNDM0YTIwOSIsIldBTl9QUFBPRSJdfSwidyI6Mn1dfQ==</dashboard>
@@ -2991,8 +2991,8 @@ AAAECmVcZHqT+vqmjM99QImaRFnc+7XA0Xzzj2XilOfCAOUXfU8Wfc5MnCBBUb4LPbDmUM&#13;
   </widgets>
   <revision>
     <username>root@188.212.113.112</username>
-    <description>user "root" changed</description>
-    <time>1784526845.51</time>
+    <description>user "misja" changed</description>
+    <time>1784526890.81</time>
   </revision>
   <ca uuid="8b359d70-f7a8-444b-a91f-e4834f94339c">
     <refid>62b55e336d051</refid>
