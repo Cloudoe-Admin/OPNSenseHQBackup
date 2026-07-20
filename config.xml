@@ -384,7 +384,7 @@
     <firmware version="1.0.1" persisted_at="1781119473.66" description="Firmware settings">
       <mirror/>
       <flavour/>
-      <plugins>os-acme-client,os-cpu-microcode-amd,os-ddclient,os-dmidecode,os-git-backup,os-haproxy,os-hw-probe,os-igmp-proxy,os-intrusion-detection-content-snort-vrt,os-isc-dhcp,os-mdns-repeater,os-net-snmp,os-netbird,os-qemu-guest-agent,os-smart,os-udpbroadcastrelay</plugins>
+      <plugins>os-acme-client,os-cpu-microcode-amd,os-ddclient,os-dmidecode,os-git-backup,os-haproxy,os-hw-probe,os-igmp-proxy,os-intrusion-detection-content-snort-vrt,os-isc-dhcp,os-net-snmp,os-netbird,os-qemu-guest-agent,os-smart,os-udpbroadcastrelay</plugins>
       <type/>
       <subscription/>
       <reboot>0</reboot>
@@ -2992,7 +2992,7 @@ UFNVy85VYsgp1ovD9FLmAAAAEG1pc2phQGNsb3Vkb2UubmwBAgMEBQ==&#13;
   <revision>
     <username>(root)</username>
     <description>/usr/local/opnsense/scripts/firmware/register.php made changes</description>
-    <time>1784530572.06</time>
+    <time>1784530695.95</time>
   </revision>
   <ca uuid="8b359d70-f7a8-444b-a91f-e4834f94339c">
     <refid>62b55e336d051</refid>
