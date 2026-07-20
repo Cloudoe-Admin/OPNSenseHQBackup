@@ -432,7 +432,7 @@ UFNVy85VYsgp1ovD9FLmAAAAEG1pc2phQGNsb3Vkb2UubmwBAgMEBQ==&#13;
         <password/>
       </git>
     </backup>
-    <backupcount>21</backupcount>
+    <backupcount>1</backupcount>
     <use_swap_file>2048</use_swap_file>
     <contact_email>misja@cloudoe.nl</contact_email>
     <sudo_allow_wheel>2</sudo_allow_wheel>
@@ -2991,8 +2991,8 @@ UFNVy85VYsgp1ovD9FLmAAAAEG1pc2phQGNsb3Vkb2UubmwBAgMEBQ==&#13;
   </widgets>
   <revision>
     <username>root@188.212.113.112</username>
-    <description>/diag_backup.php made changes</description>
-    <time>1784528201.83</time>
+    <description>Changed backup revision count</description>
+    <time>1784528227.09</time>
   </revision>
   <ca uuid="8b359d70-f7a8-444b-a91f-e4834f94339c">
     <refid>62b55e336d051</refid>
