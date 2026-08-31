@@ -2990,9 +2990,9 @@ UFNVy85VYsgp1ovD9FLmAAAAEG1pc2phQGNsb3Vkb2UubmwBAgMEBQ==&#13;
     <interfaceslistfilter>opt1,opt3,lan,opt6,wan,opt2</interfaceslistfilter>
   </widgets>
   <revision>
-    <username>root@188.212.113.112</username>
-    <description>/api/core/dashboard/save_widgets made changes</description>
-    <time>1784530748.56</time>
+    <username>(root)</username>
+    <description>/usr/local/opnsense/scripts/OPNsense/AcmeClient/lecert.php made changes</description>
+    <time>1788213601.78</time>
   </revision>
   <ca uuid="8b359d70-f7a8-444b-a91f-e4834f94339c">
     <refid>62b55e336d051</refid>
@@ -4307,7 +4307,7 @@ __opt6_network</content>
       <zones/>
       <templates/>
     </captiveportal>
-    <AcmeClient version="4.4.0" persisted_at="1782943211.28" description="A secure ACME Client plugin">
+    <AcmeClient version="4.4.0" persisted_at="1788213601.77" description="A secure ACME Client plugin">
       <settings>
         <enabled>1</enabled>
         <autoRenewal>1</autoRenewal>
@@ -4360,8 +4360,8 @@ __opt6_network</content>
           <challengealias/>
           <certRefId>62b55e336da54</certRefId>
           <lastUpdate>1782943211</lastUpdate>
-          <statusCode>200</statusCode>
-          <statusLastUpdate>1782943211</statusLastUpdate>
+          <statusCode>400</statusCode>
+          <statusLastUpdate>1788213601</statusLastUpdate>
         </certificate>
       </certificates>
       <validations>
